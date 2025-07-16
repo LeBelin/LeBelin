@@ -9,7 +9,7 @@
 ## 🧠 À propos de moi
 
 - 👋 Salut, moi c’est **LeBelin**
-- 🎓 Étudiant en **BTS SIO**, option **SLAM**
+- 🎓 En recherche **d'alternace**, **Bachelor Développeur Full Stack - Data & Devops**
 - 💻 J’adore créer, apprendre et construire avec du code
 - 🎯 Objectif : devenir développeur full-stack 🔥
 
