@@ -18,7 +18,7 @@
 ## 📫 Me contacter
 Portfolio :
 <p align="left">
-  <a href="https://andybelin.com" target="_blank" alt="Portfolio"><img src="https://andybelin.com/logo.png" width="50" height="50" /></a>
+  <a href="https://andybelin.dev" target="_blank" alt="Portfolio"><img src="https://andybelin.dev/logo.png" width="50" height="50" /></a>
 </p>
 Autres :
 <p align="left">
