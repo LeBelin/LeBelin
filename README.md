@@ -1,29 +1,34 @@
-<h1 align="center" style="color:#3498db;">🧑‍💻 @LeBelin</h1>
+<h1 align="center">Andy</h1>
 
 <p align="center">
-  <em>Développeur full stack • Étudiant en BTS SIO (SLAM) • Passionné de code</em>
+  Full Stack Developer
+</p>
+
+<p align="center">
+  🚀 Recherche d’alternance
 </p>
 
 ---
 
-## 🧠 À propos de moi
+## 🛠️ Stack
 
-- 👋 Salut, moi c’est **LeBelin**
-- 🎓 En recherche **d'alternace**, **Bachelor Développeur Full Stack - Data & Devops**
-- 💻 J’adore créer, apprendre et construire avec du code
-- 🎯 Objectif : devenir développeur full-stack 🔥
-
----
-
-## 📫 Me contacter
-Portfolio :
-<p align="left">
-  <a href="https://andybelin.dev" target="_blank" alt="Portfolio"><img src="https://andybelin.dev/logo.png" width="50" height="50" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,supabase,laravel,tailwind,cs,mysql,vscode,postman,git,vercel" />
 </p>
-Autres :
-<p align="left">
-  <a href="https://www.linkedin.com/in/andy-belin-3688a8256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/LeBelin"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Herd-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBngin-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge" />
 </p>
 
 ---
+
+## 🔗
+
+<p align="center">
+  <a href="https://andybelin.dev">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/andy-belin-3688a8256/">LinkedIn</a> • 
+  <a href="https://github.com/LeBelin">GitHub</a>
+</p>
